@@ -1,8 +1,5 @@
 /*
- * Name: Steven Eck
- * Date: February 5, 2013
- * Class CIT 160-01
- * Problem Statement:This program will produce an unique user name by manipulating several strings
+ *This program will produce an unique user name by manipulating several strings
  * using first name, last name and phone number. It will also display a full name in all capitals, all lowercase
  * and input and adapt the display day of the week. 
  * 
